@@ -5,7 +5,7 @@ v2.15.1 - xx xxx xxxx
        in ovsdb on startup.
      * New command 'record-hostname-if-not-set' to update hostname in ovsdb.
    - DPDK:
-     * OVS validated with DPDK 20.11.1. It is recommended to use this version
+     * OVS validated with DPDK 20.11.2. It is recommended to use this version
        until further releases.
 
 
