@@ -73,7 +73,7 @@ v2.16.0 - 16 Aug 2021
        in ovsdb on startup.
      * New command 'record-hostname-if-not-set' to update hostname in ovsdb.
    - DPDK:
-     * OVS validated with DPDK 20.11.1. It is recommended to use this version
+     * OVS validated with DPDK 20.11.2. It is recommended to use this version
        until further releases.
      * New debug appctl command 'dpdk/get-malloc-stats'.
      * Add hardware offload support for tunnel pop action (experimental).
